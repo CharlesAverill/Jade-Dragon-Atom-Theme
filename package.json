@@ -13,7 +13,7 @@
   "name": "jade-dragon-syntax",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CharlesAverill/Jade-Dragon-Atom-Theme.git"
+    "url": "https://github.com/CharlesAverill/Jade-Dragon-Atom-Theme.git"
   },
   "theme": "syntax",
   "version": "0.1.0",
