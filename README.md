@@ -14,4 +14,4 @@ Dragon Fire syntax has been optimized for Python ONLY. Expect weird stuff for ot
 
 Python:
 
-![Jade Dragon Python Syntax](https://ibb.co/c27mb9p)
+![Jade Dragon Python Syntax](https://imgur.com/dgjKY50)
