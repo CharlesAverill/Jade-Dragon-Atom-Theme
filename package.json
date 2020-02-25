@@ -1,0 +1,50 @@
+{
+  "_from": "https://www.atom.io/api/packages/jade-dragon-syntax/versions/0.5.3/tarball",
+  "_id": "jade-dragon-syntax@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-btFxGdd564DxrwKHvDuSPm3PiY4VmhBQL9awI85DBgrwN0kceS1Hikiwd0SWj3Cceyokhhw4zbxftyO9Ym3+jA==",
+  "_location": "/jade-dragon-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/jade-dragon-syntax/versions/0.5.3/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/jade-dragon-syntax/versions/0.5.3/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/jade-dragon-syntax/versions/0.5.3/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/jade-dragon-syntax/versions/0.5.3/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/jade-dragon-syntax/versions/0.5.3/tarball",
+  "_shasum": "5b7e65b83dcd5108fb79b1d1ca3c85262a9ff6f7",
+  "_spec": "https://www.atom.io/api/packages/jade-dragon-syntax/versions/0.5.3/tarball",
+  "_where": "/private/var/folders/hd/3dfl5wwn21bd_tm17bs9s45c0000gn/T/apm-install-dir-120124-23622-158zxbw.x0tn",
+  "bugs": {
+    "url": "https://github.com/kingfisher7/jade-dragon-syntax/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Smooth Jade dragon theme.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/kingfisher7/jade-dragon-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dragon",
+    "jade",
+    "peaceful",
+    "green",
+    "forest"
+  ],
+  "license": "MIT",
+  "name": "jade-dragon-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingfisher7/jade-dragon-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "1.0.0"
+}
